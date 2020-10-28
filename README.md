@@ -1,6 +1,6 @@
 # Election_Analysis_2
 ## Overview of Election Audit
-Election audit of US congressional precint in Colorado.  We calculated election results to include total votes cast, county votes that include the total votes and percentage of total votes cast, largest county turnout and finally, the winning candidates with total vote count and percentage of vote won, along with total vote counthy and percentage of votes for the two candates that did not win.
+Election audit of US congressional precint in Colorado.  WI calculated election results to include total votes cast, county votes that include the total votes and percentage of total votes cast, largest county turnout and finally, the winning candidates with total vote count and percentage of vote won, along with total vote per county and percentage of votes for all candidates.
 There were three voting mthods used for this election that were taken into account for this analysis.  Those include:
 -Main-In Ballots
 -Punch cards
