@@ -4,7 +4,10 @@ Election audit of US congressional precint in Colorado.  WI calculated election 
 There were three voting mthods used for this election that were taken into account for this analysis.  Those include:
 -Main-In Ballots
 -Punch cards
--Direct Recording Electronic (DRE)
+-Direct Recording Electronic
+## Resources
+-Data Source: election_results.csv
+-Software: Python 3.7.6, Visual Studio Code
 ## Election Audit Results
 Total number of votes cast for this congressional election was **369,711**
 There are three counties included in this precint, Jefferson, Denver and Arapahoe.  We have provided a breakdown of the number of votes and the percentage of total votes for each county.  The results are as follows:
