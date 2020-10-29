@@ -1,10 +1,13 @@
 # Election_Analysis_2
 ## Overview of Election Audit
-Election audit of US congressional precint in Colorado.  We calculated election results to include total votes cast, county votes that include the total votes and percentage of total votes cast, largest county turnout and finally, the winning candidates with total vote count and percentage of vote won, along with total vote counthy and percentage of votes for the two candates that did not win.
+Election audit of US congressional precint in Colorado.  WI calculated election results to include total votes cast, county votes that include the total votes and percentage of total votes cast, largest county turnout and finally, the winning candidates with total vote count and percentage of vote won, along with total vote per county and percentage of votes for all candidates.
 There were three voting mthods used for this election that were taken into account for this analysis.  Those include:
 -Main-In Ballots
 -Punch cards
--Direct Recording Electronic (DRE)
+-Direct Recording Electronic
+## Resources
+-Data Source: election_results.csv
+-Software: Python 3.7.6, Visual Studio Code
 ## Election Audit Results
 Total number of votes cast for this congressional election was **369,711**
 There are three counties included in this precint, Jefferson, Denver and Arapahoe.  We have provided a breakdown of the number of votes and the percentage of total votes for each county.  The results are as follows:
