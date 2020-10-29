@@ -1,7 +1,6 @@
 # Election_Analysis_2
 ## Overview of Election Audit
-Election audit of US congressional precint in Colorado.  WI calculated election results to include total votes cast, county votes that include the total votes and percentage of total votes cast, largest county turnout and finally, the winning candidates with total vote count and percentage of vote won, along with total vote per county and percentage of votes for all candidates.
-There were three voting mthods used for this election that were taken into account for this analysis.  Those include:
+The task was to provide an election audit of tabulated results for a US congressional precint in Colorado.  I calculated election results to include total votes cast, total number of votes for each candidates, percentage of vote for each candidate and the winner of the election based on popular vote.  In this summary we also provide results that include total votes cast in three counties, county with largest number of turnout voters and percent. There are three primary voting methods we took into account for the total votes cast.  Those include:
 -Main-In Ballots
 -Punch cards
 -Direct Recording Electronic
@@ -13,12 +12,11 @@ There were three voting mthods used for this election that were taken into accou
 ## Election Audit Results
 Total number of votes cast for this congressional election was **369,711**
 There are three counties included in this precint, Jefferson, Denver and Arapahoe.  Also provided is a breakdown of the number of votes and the percentage of total votes for each county. The results are as follows:
-
 * Jefferson: 10.5% (38,855)
 * Denver: 82.8% (306,055)
 * Arapahoe: 6.7% (24,801)
-
 The county identified with the largest number of total votes was **Denver** with **82.8%**.  An impressive amount compared to the other two counties.  
+
 Below is a breakdown of votes and percentage of votes for each candidate.
 * Charles Casper Stockham: 23.0% (85,213)
 * Diana DeGette: 73,8% (272,892)
