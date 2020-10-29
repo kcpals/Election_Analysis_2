@@ -1,6 +1,6 @@
 # Election_Analysis_2
 ## Overview of Election Audit
-The task was to provide an election audit of tabulated results for a US congressional precint in Colorado.  I calculated election results to include total votes cast, total number of votes for each candidates, percentage of vote for each candidate and the winner of the election based on popular vote.  In this summary we also provide results that include total votes cast in three counties, county with largest number of turnout voters and percentage of total votes. In this analysis, there are three primary voting methods we took into account for the total votes cast.  Those include:
+Enclosed is an election audit of tabulated results for a US congressional precint in Colorado.  The analysis inclues election results that include results like total votes cast, total number of votes for each candidates, percentage of vote for each candidate and the winner of the election based on popular vote.  In this summary we also provide results for total votes cast in three counties, county with largest number of turnout voters and percentage of total votes. In this analysis, there are three primary voting methods we took into account for the total votes cast.  Those include:
 -Mail-In Ballots
 -Punch cards
 -Direct Recording Electronic
