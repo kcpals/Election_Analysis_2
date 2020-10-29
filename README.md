@@ -1,11 +1,11 @@
 # Election_Analysis_2
 ## Overview of Election Audit
-The task was to provide an election audit of tabulated results for a US congressional precint in Colorado.  I calculated election results to include total votes cast, total number of votes for each candidates, percentage of vote for each candidate and the winner of the election based on popular vote.  In this summary we also provide results that include total votes cast in three counties, county with largest number of turnout voters and percent. There are three primary voting methods we took into account for the total votes cast.  Those include:
+The task was to provide an election audit of tabulated results for a US congressional precint in Colorado.  I calculated election results to include total votes cast, total number of votes for each candidates, percentage of vote for each candidate and the winner of the election based on popular vote.  In this summary we also provide results that include total votes cast in three counties, county with largest number of turnout voters and percentage of total votes. In this analysis, there are three primary voting methods we took into account for the total votes cast.  Those include:
 -Main-In Ballots
 -Punch cards
 -Direct Recording Electronic
 
-## Resources
+## Resources Used
 -Data Source: election_results.csv
 -Software: Python 3.7.6, Visual Studio Code
 
@@ -25,6 +25,8 @@ And finally, the candidate that won the election, their vote count and percentag
 * Winner: **Diana DeGette**
 * Winning Vote Count: 272,892
 * Winning Percentage: 73.8%
+
+The above numbers are also available at a glance in the file listed "analysis" [GitHub Pages] (https://github.com/kcpals/Election_Analysis_2/blob/main/Analysis/election_analysis.txt)
 
 ## Election Audit Summary
 In summary, now that this script has been utilized to deliver the aforementioned results, this script, with some minor modifcations, can be used again for other election results.  For example, the data could be changed to include other counties, to find similar results or even changed slightly to include individual city voting results or used for Senatorial elections.
