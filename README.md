@@ -11,9 +11,9 @@ There were three voting mthods used for this election that were taken into accou
 ## Election Audit Results
 Total number of votes cast for this congressional election was **369,711**
 There are three counties included in this precint, Jefferson, Denver and Arapahoe.  We have provided a breakdown of the number of votes and the percentage of total votes for each county.  The results are as follows:
--Jefferson: 10.5% (38,855)
--Denver: 82.8% (306,055)
--Arapahoe: 6.7% (24,801)
+  Jefferson: 10.5% (38,855)
+   Denver: 82.8% (306,055)
+  Arapahoe: 6.7% (24,801)
 The county identified with the largest number of total votes was **Denver** with 82.8%.  An impressive amount compared to the other two counties.  
 We also are providing a breakdown for each candidate that includes number of votes and percentage of total votes received.
 -Charles Casper Stockham: 23.0% (85,213)
